@@ -1,0 +1,2 @@
+# Spatio-Temporal-Forest-Carbon-Pool-Disturbance-Dynamics-Across-Gridded-Regions
+In this project:-  Builds or loads a 3D gridded dataset (⁠time⁠, ⁠lat⁠, ⁠lon⁠) representing Gross Primary Productivity (GPP / forest uptake), disturbance severity (e.g., drought/fire/windfall shocks), and temperature/climate forcing. 2. Solves a two-pool forest carbon ODE system at every grid cell simultaneously using vectorized NumPy arrays
